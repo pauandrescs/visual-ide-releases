@@ -21,4 +21,8 @@ release in your browser.
 Releases are tagged `v` followed by the version number, for example `v0.2.0`.
 Drafts and pre-releases are not offered as updates.
 
-No version has been published yet.
+The newest version is always at
+https://github.com/pauandrescs/visual-ide-releases/releases/latest
+
+Packages are not signed with a certificate yet: macOS and Windows warn before opening them. Each
+release lists the SHA-256 checksum of its files in `SHA256SUMS.txt`.
